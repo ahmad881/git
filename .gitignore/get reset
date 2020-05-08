@@ -1,0 +1,11 @@
+git reset --hard <commit>
+git reset -- hard origin/master
+
+int a = 1;       int a = 1;         int a = 1;
+int b = 2;       int b = 2;         int c = 3;
+int c = 3;       int c = 3;         int d = 4;
+int d = 4;       int d = 4;         int e = 5;
+                 int e = 5;          
+                 # Add line         # remove line
+                  57656c6            436f6d6
+                 
